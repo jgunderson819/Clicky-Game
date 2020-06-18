@@ -11,9 +11,18 @@ How to Use
 
 You can use this game at https://jgunderson819.github.io/Clicky-Game/
 
+Screenshots
+
+This is a screenshot of the Game which you will see when you log in.
+
+![Screenshot Page](./public/assets/images/clicky_home.JPG)
+
 Technologies Used
 React
-Heroku Deployment
+Node
+Express
+Babel
+Webpack
 
 Author:
 Jeff Gunderson
